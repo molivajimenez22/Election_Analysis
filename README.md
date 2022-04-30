@@ -12,23 +12,23 @@ The purpose of this project is to audit the recent local congressional election.
 ## Election Audit Results
 The analysis of the election show that Denver had the largest county turnout, Jefferson came in second and Araphoe third. Additionally, Diana was the the winning candidate followed by Charles Casper Stockham and Raymon Anthony respectively. A thorough breakdown is shown below.
 
-1. Total congretional votes cast:
+1. Total congretional votes cast: 369,711
 
 ![name-of-you-image](https://github.com/molivajimenez22/Election_Analysis/blob/main/total_votes.png)
 
-2. County breakdown:
+2. County breakdown: 
 
 ![name-of-you-image](https://github.com/molivajimenez22/Election_Analysis/blob/main/county_votes.png)
 
-3. County with the largest number of votes:
+3. County with the largest number of votes: Denver with 82.8% (306,055) votes
 
 ![name-of-you-image](https://github.com/molivajimenez22/Election_Analysis/blob/main/Largest_County_Turnout.png)
 
-4. Candidate breakdown:
+4. Candidate breakdown: 
 
 ![name-of-you-image](https://github.com/molivajimenez22/Election_Analysis/blob/main/candidate_Results.png)
 
-5. Winning Candidate: 
+5. Winning Candidate: Diana DeGette with 73.8 (272,892) Votes
 
 ![name-of-you-image](https://github.com/molivajimenez22/Election_Analysis/blob/main/winning_Candidate.png)
 
