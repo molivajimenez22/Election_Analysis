@@ -9,12 +9,6 @@ The purpose of this project is to audit the recent local congressional election.
 4. Calcuate the percentage of votes each candidate won
 5. Determine the winner of the election based on popular vote
 
-## Resources 
-The following resources were used
-
-1. Data Source: [Election_Results] (https://github.com/molivajimenez22/Election_Analysis/blob/main/election_results.csv)
-2. Software: Python 3.10 and Visual Studio Code
-
 ## Election Audit Results
 The analysis of the election show that Denver had the largest county turnout, Jefferson came in second and Araphoe third. Additionally, Diana was the the winning candidate followed by Charles Casper Stockham and Raymon Anthony respectively. A thorough breakdown is shown below.
 
@@ -44,3 +38,9 @@ Below is the breakdown together that was saved in Analysis folder.
 
 ## Election Audit Summary 
 In this challenge, we reviewed congressional election data and organized the findings by total votes, county votes, largest county turnout and candiadte results. Overall the code used is efficient, customizable and scaleable. At one point we summarized candidate information and then for the challenge, we highlighted largest county turnout. Additionally, we were able to create a file to display the results.
+
+## Resources 
+The following resources were used
+
+1. Data Source: [Election_Results] (https://github.com/molivajimenez22/Election_Analysis/blob/main/election_results.csv)
+2. Software: Python 3.10 and Visual Studio Code
